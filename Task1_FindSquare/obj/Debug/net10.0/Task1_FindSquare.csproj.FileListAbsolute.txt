@@ -1,0 +1,14 @@
+/home/hp/Methods-Default-Params/Task1_FindSquare/bin/Debug/net10.0/Task1_FindSquare
+/home/hp/Methods-Default-Params/Task1_FindSquare/bin/Debug/net10.0/Task1_FindSquare.deps.json
+/home/hp/Methods-Default-Params/Task1_FindSquare/bin/Debug/net10.0/Task1_FindSquare.runtimeconfig.json
+/home/hp/Methods-Default-Params/Task1_FindSquare/bin/Debug/net10.0/Task1_FindSquare.dll
+/home/hp/Methods-Default-Params/Task1_FindSquare/bin/Debug/net10.0/Task1_FindSquare.pdb
+/home/hp/Methods-Default-Params/Task1_FindSquare/obj/Debug/net10.0/Task1_FindSquare.GeneratedMSBuildEditorConfig.editorconfig
+/home/hp/Methods-Default-Params/Task1_FindSquare/obj/Debug/net10.0/Task1_FindSquare.AssemblyInfoInputs.cache
+/home/hp/Methods-Default-Params/Task1_FindSquare/obj/Debug/net10.0/Task1_FindSquare.AssemblyInfo.cs
+/home/hp/Methods-Default-Params/Task1_FindSquare/obj/Debug/net10.0/Task1_FindSquare.csproj.CoreCompileInputs.cache
+/home/hp/Methods-Default-Params/Task1_FindSquare/obj/Debug/net10.0/Task1_FindSquare.dll
+/home/hp/Methods-Default-Params/Task1_FindSquare/obj/Debug/net10.0/refint/Task1_FindSquare.dll
+/home/hp/Methods-Default-Params/Task1_FindSquare/obj/Debug/net10.0/Task1_FindSquare.pdb
+/home/hp/Methods-Default-Params/Task1_FindSquare/obj/Debug/net10.0/Task1_FindSquare.genruntimeconfig.cache
+/home/hp/Methods-Default-Params/Task1_FindSquare/obj/Debug/net10.0/ref/Task1_FindSquare.dll
